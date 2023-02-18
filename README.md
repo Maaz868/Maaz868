@@ -1,6 +1,6 @@
 <html>
   <div align="center">
-#                                                              :-:             Maaz Ahmed
+<h1>            Maaz Ahmed<h1>
 </div>
   
 ## ABOUT ME
