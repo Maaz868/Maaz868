@@ -4,3 +4,4 @@ Thanks for stopping by and feel free to reach out if you have any questions or w
 
 
 [![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz)](https://github.com/Maaz868/github-readme-stats)
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz&show_icons=true&theme=radical)
