@@ -4,9 +4,9 @@ I am Maaz Ahmed, a third year university student doing my Bachelor's in Software
 
 Thanks for stopping by and feel free to reach out if you have any questions or want to collaborate on a project!
 
+[![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz)](https://github.com/Maaz868/github-readme-stats)
  <html>
   <body>
-[![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz)](https://github.com/Maaz868/github-readme-stats)
      <h1> </h1>
     </body>
   </html>
