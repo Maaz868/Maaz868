@@ -6,7 +6,7 @@ Thanks for stopping by and feel free to reach out if you have any questions or w
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz&layout=compact)](https://github.com/Maaz868/github-readme-stats)
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="width:50%;text-align:left;margin-left:0">
 [![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz)](https://github.com/Maaz868/github-readme-stats)
   </body>
   </html>
