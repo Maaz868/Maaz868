@@ -3,4 +3,4 @@ I am Maaz Ahmed, a third year university student doing my Bachelor's in Software
 Thanks for stopping by and feel free to reach out if you have any questions or want to collaborate on a project!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz868)](https://github.com/Maaz868/github-readme-stats)
