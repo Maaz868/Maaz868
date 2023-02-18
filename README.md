@@ -1,6 +1,8 @@
-<div aligh="center">
+<html>
+  <div align="center">
 #                                                              :-:             Maaz Ahmed
 </div>
+  
 ## ABOUT ME
 ___
 I am Maaz Ahmed, a third year university student doing my Bachelor's in Software Engineering from NUST. I am familiar with programming languages like PHP, Java, C++ and Python. Hence, I have got good command of Android Studio, Flutter, Python Libraries such as Tkinter. Someone who loves to code, learn new technologies, and contribute to open-source projects, I have created and improved existing many applications and softwares.
