@@ -11,11 +11,11 @@ Thanks for stopping by and feel free to reach out if you have any questions or w
 
   ***
  
-![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz&show_icons=true&theme=radical)
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maaz868&show_icons=true&theme=radical)
   
 ***
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz868&layout=compact)](https://github.com/Maaz868/github-readme-stats)
  
  ***
 
